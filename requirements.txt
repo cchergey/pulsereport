@@ -1,0 +1,8 @@
+streamlit
+anthropic
+pandas
+plotly
+openpyxl
+reportlab
+kaleido
+python-dotenv
